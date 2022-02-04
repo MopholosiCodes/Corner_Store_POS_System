@@ -1,5 +1,5 @@
 # Point_Of_Sale_System
-A **Sale Transaction tracking system** for a small business.
+**Sale Transaction tracking system** for a small businesses.
 
 ## Technology Used:
 ### Front-End:
