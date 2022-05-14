@@ -1,6 +1,6 @@
 <?php
 //display records
-include 'connection.php';
+include '../DataLayer/connection.php';
 $sql = "SELECT * FROM `purchase`";
 $result = $conn->query($sql);
 ?>

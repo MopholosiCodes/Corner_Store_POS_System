@@ -1,6 +1,6 @@
 <?php
 //display all notes
-include 'connection.php';
+include '../DataLayer/connection.php';
 $select_sql = "SELECT * FROM `journal`";
 $result1 = $conn->query($select_sql);
 

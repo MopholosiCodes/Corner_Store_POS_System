@@ -1,4 +1,4 @@
-<?php include 'connection.php';?>
+<?php include '../DataLayer/connection.php';?>
 
 <!DOCTYPE html>
 <html lang="en">
