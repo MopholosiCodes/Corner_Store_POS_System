@@ -7,6 +7,9 @@
 - PHP MySQL
 - Two-Tier Architecture
 
+## ERD
+<img src="./Screenshots/Screenshot (27).png" />
+
 ## Screenshots
 <img src="./Screenshots/Screenshot (18).png" />
 <img src="./Screenshots/Screenshot (19).png" />
