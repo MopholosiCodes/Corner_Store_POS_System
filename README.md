@@ -2,10 +2,21 @@
 **Sale Transaction tracking system** for a small businesses.
 
 ## Technology Used:
-	1. HTML, CSS, Javascript
-	2. Bootstrap
-	3. PHP MySQL
-	4. Two-Tier Architecture
+- HTML, CSS, Javascript
+- Bootstrap
+- PHP MySQL
+- Two-Tier Architecture
+
+## Screenshots
+<img src="./Screenshots/Screenshot (18).png" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
 
 
 
